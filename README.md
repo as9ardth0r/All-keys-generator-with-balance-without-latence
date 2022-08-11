@@ -2,7 +2,7 @@
 =================================================
 
 ```bash
---Fonctionne pour les adresses compressées. 
+--Fonctionne pour les adresses non compressées et compressées. 
 --Adresse type : Pubkeyhash.
 --Mode aléatoire.
 --Mode afficher la balance (vraiment fonctionnel).
