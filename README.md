@@ -9,7 +9,7 @@
 --Mode choix du prefix recherché.
 ```
 
-![ezcv logo](https://raw.githubusercontent.com/as9ardth0r/All-keys-generator-with-balance-without-latence/main/generate.png)
+![ezcv logo](https://raw.githubusercontent.com/as9ardth0r/All-keys-generator-with-balance-without-latence/blob/main/generate.png)
 
 
 ## Possibilité de changer le code pour afficher les adresses non compressées et même supprimer le mode random.
