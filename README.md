@@ -26,3 +26,6 @@ pour crypto : https://github.com/as9ardth0r/crypto.git
 ```bash
 $ go run generate.go
 ```
+ ```bash
+Donation : 18uM6LstzxbjeMCTwkmdEwFxGSrQ4yT6qn
+ ```
